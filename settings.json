@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "TeaGrassBun.aternos.me:26299",
+    "ip": "TeaGrassBun.aternos.me",
     "port": 26299,
     "version": "1.21.1",
     "try-creative": false
