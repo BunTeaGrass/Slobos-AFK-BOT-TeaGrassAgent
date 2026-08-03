@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "icefish.aternos.host:26299",
+    "ip": "TeaGrassBun.aternos.me:26299",
     "port": 26299,
-    "version": "1.21.1",
+    "version": "26.2",
     "try-creative": false
   },
   "position": {
